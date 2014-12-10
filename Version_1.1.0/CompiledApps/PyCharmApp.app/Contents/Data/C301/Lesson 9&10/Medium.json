@@ -1,0 +1,20 @@
+[
+    {"type":"Enemy", "speed":0.2, "spawn_time":1},
+    {"type":"Enemy", "speed":0.2, "spawn_time":1},
+    {"type":"Enemy", "speed":0.2, "spawn_time":1},
+    {"type":"Enemy", "speed":0.2, "spawn_time":1},
+    {"type":"Enemy", "speed":0.2, "spawn_time":1},
+    {"type":"Enemy", "speed":0.2, "spawn_time":1},
+    {"type":"Enemy", "speed":0.2, "spawn_time":12},
+    {"type":"Enemy", "speed":0.2, "spawn_time":12},
+    {"type":"Enemy", "speed":0.2, "spawn_time":12},
+    {"type":"Enemy", "speed":0.2, "spawn_time":12},
+    {"type":"Enemy", "speed":0.2, "spawn_time":12},
+    {"type":"Enemy", "speed":0.2, "spawn_time":12},
+    {"type":"Enemy2", "speed":0.5, "spawn_time":22},
+    {"type":"Enemy2", "speed":0.5, "spawn_time":22},
+    {"type":"Enemy2", "speed":0.5, "spawn_time":22},
+    {"type":"Enemy3", "speed":1, "spawn_time":35},
+    {"type":"Enemy3", "speed":1, "spawn_time":35},
+    {"type":"Enemy3", "speed":1, "spawn_time":35}
+]
