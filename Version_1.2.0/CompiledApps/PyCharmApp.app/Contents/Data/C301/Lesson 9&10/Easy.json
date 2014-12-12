@@ -1,0 +1,12 @@
+[
+    {"type":"Enemy", "speed":0.2, "spawn_time":1},
+    {"type":"Enemy", "speed":0.2, "spawn_time":3},
+    {"type":"Enemy", "speed":0.2, "spawn_time":5},
+    {"type":"Enemy", "speed":0.2, "spawn_time":7},
+    {"type":"Enemy", "speed":0.2, "spawn_time":9},
+    {"type":"Enemy", "speed":0.2, "spawn_time":11},
+    {"type":"Enemy2", "speed":0.5, "spawn_time":18},
+    {"type":"Enemy2", "speed":0.5, "spawn_time":23},
+    {"type":"Enemy2", "speed":0.5, "spawn_time":28},
+    {"type":"Enemy3", "speed":1, "spawn_time":35}
+]
